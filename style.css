@@ -1,0 +1,69 @@
+
+/*************** Reset *********************/
+* {
+margin-bottom: 1rem;
+padding: 0.5%;
+box-sizing: border-box;
+}
+
+img {
+width: 100%;
+height: auto;
+display: block;
+box-shadow: 2px;
+}
+
+nav {
+padding: 5%;
+
+
+}
+
+p, ol, dl {
+  font-family: 'Libertinus Serif', serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 25px;
+}
+
+h1, h2, h3 {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 800;
+  font-style: bold;
+}
+
+main {
+  background-color: rgb(235, 233, 231);
+  padding: 5%;
+  margin-bottom: 2em;
+}
+
+footer {
+  background-color: wheat;
+  padding: 2%;
+  text-align: center;
+}
+
+header {
+  background-color: wheat;
+  margin-bottom: 2em;
+}
+
+ .infobox {
+
+  background-color: white;
+  padding: 10%;
+  
+}
+
+dt {
+  background-color: wheat;
+  border-radius: 25px;
+  text-align: center;
+}
+
+dl {
+  text-align: center;
+}
+
+
